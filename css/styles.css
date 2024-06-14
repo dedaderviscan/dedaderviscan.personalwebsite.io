@@ -1,0 +1,29 @@
+.dancing-script {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 4rem;
+  }
+
+.img-fluid { 
+    max-width: 70%;
+}
+
+
+
+.nav-link{
+    color: black;
+}
+
+i {
+    font-size: 20px;
+  }
+
+.footer {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
